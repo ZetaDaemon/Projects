@@ -1,6 +1,6 @@
 # Krieg Thrown Buzzaxe Doc
 ## Buzzaxe Damage Formula
-Damage = ( \[Player Level * 0.02 + 1 \] * 80 * 1.13 ^ \[Player Level + OP Level\] + 2.5 * Roid Damage ) * 0.6  
+Damage = ( \[ Player Level * 0.02 + 1 \] * 80 * 1.13 ^ \[ Player Level + OP Level \] + 2.5 * Roid Damage ) * 0.6  
 
 ## Standard Thrown Buzzaxe
 1 * Buzzaxe Damage as normal Melee Damage with a radius of 0.  

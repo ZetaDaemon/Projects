@@ -1,9 +1,3 @@
-<styles>
-  red {color: red}
-  blue {color: blue}
-  yellow {color: yellow}
-</styles>
-
 # Krieg Thrown Buzzaxe Doc
 ## Buzzaxe Damage Formula
 Buzzaxe Damage = ( <red>Buzzaxe Damage Base</red> + 2.5 * <blue>Roid Damage</blue> ) * 0.6  
